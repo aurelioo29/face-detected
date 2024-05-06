@@ -1,4 +1,4 @@
-> Face Recognition
+<h1>Face Recognition</h1>
 
 <b>IMPORTANT</b>
 
